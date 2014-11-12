@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">银联手机支付DEMO</string>
+
+    <string name="now_pay">获取TN支付</string>
+    <string name="tn_pay">输入TN支付</string>
+    <string name="input_tn_title">输入TN(支付流水号)</string>
+    <string name="ok">确定</string>
+    <string name="cacel">取消</string>
+    <string name="get_tn_fail">获取TN失败</string>
+    <string name="pay_success">支付成功</string>
+    <string name="pay_fail">支付失败</string>
+    <string name="pay_cancel">取消支付</string>
+    <string name="pay_result_title">支付结果通知</string>
+    <string name="pay_result_close">关闭</string>
+    <string name="dialog_loading">正在获取tn</string>
+
+</resources>
